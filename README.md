@@ -7,7 +7,7 @@
 [🖥️ 깃허브 페이지 바로가기](https://badahertz52.github.io/javascript-lunch/dist/)
 
 ### 프로젝트 후기 블로그
-[🌟바로가기](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%94-FE-%EB%A0%88%EB%B2%A81-%EB%A1%9C%EB%98%90-%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%81%9D%EB%82%B4%EA%B3%A0)
+[🌟바로가기](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-FE-%EB%A0%88%EB%B2%A81-%EC%A0%90%EC%8B%AC-%EB%AD%90-%EB%A8%B9%EC%A7%80-%ED%9A%8C%EA%B3%A0-liwhowln)
 
 ## 설치
 
