@@ -6,6 +6,9 @@
 
 [🖥️ 깃허브 페이지 바로가기](https://badahertz52.github.io/javascript-lunch/dist/)
 
+### 프로젝트 후기 블로그
+[🌟바로가기](https://velog.io/@badahertz52/%EC%9A%B0%ED%85%8C%EC%BD%94-FE-%EB%A0%88%EB%B2%A81-%EB%A1%9C%EB%98%90-%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%81%9D%EB%82%B4%EA%B3%A0)
+
 ## 설치
 
 ```dash
@@ -223,3 +226,4 @@ src
 ### 컴포넌트 상속 및 프로세스
 
 <img src="./lunch-diagram2.png" width="700px" alt="컴포넌트 상속 및 프로세스">
+
